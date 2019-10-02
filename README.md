@@ -4,6 +4,4 @@ The NAR files with the shorter version numbers in the file name (e.g. 'nifi-jms-
 
 Compilation:
 - cd nifi-nar-bundles\nifi-jms-bundle
-- mvn clean package -Dmaven.test.skip=true -pl nifi-jms-processors-nar -am
-OR 
 - mvn clean package -pl nifi-jms-processors-nar -am
